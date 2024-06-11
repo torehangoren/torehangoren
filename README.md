@@ -27,7 +27,7 @@ Presentation: https://github.com/torehangoren/torehangoren/blob/main/2024_UI5con
 
 ## Projects
 
-### 1. [Resume](https://github.com/yourusername/projectname)
+### 1. [Resume](https://github.com/torehangoren/resume)
 This is a UI5 WebComponent application built with TypeScript, serving as a resume CV.
 
 
