@@ -4,9 +4,9 @@
 
 I am an experienced full-stack SAP developer with over 8 years with a passion for building Apps with UI5, particularly Freestyle applications. I bring expertise to both the backend logic and the frontend user experience, ensuring seamless SAP solutions.
 
-- 🌐 Personal Website: [Your Website](https://torehangoren.com)
-- 💼 LinkedIn: [Your LinkedIn](https://linkedin.com/in/toerehan-goeren/)
-- ✖️ X: [@yourhandle](https://twitter.com/torehangoren)
+- 🌐 Personal Website: [torehangoren.com](https://torehangoren.com)
+- 💼 LinkedIn: [LinkedIn](https://linkedin.com/in/toerehan-goeren/)
+- ✖️ X: [X](https://twitter.com/torehangoren)
 
 ## Skills
 
