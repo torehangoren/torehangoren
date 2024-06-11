@@ -11,7 +11,7 @@ I am an experienced full-stack SAP developer with over 8 years with a passion fo
 ## Past Presentations Content
 ### UI5Con2024
 #### Migrating an existing freestyle UI5 project from JavaScript to TypeScript
-Presentation: 
+Presentation: https://github.com/torehangoren/torehangoren/blob/main/2024_UI5con_TypeScript_Migration.pdf
 
 ## Skills
 
