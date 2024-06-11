@@ -8,6 +8,11 @@ I am an experienced full-stack SAP developer with over 8 years with a passion fo
 - 💼  Follow me on LinkedIn: https://linkedin.com/in/toerehan-goeren/
 - ✖️  Follow me on X: https://twitter.com/torehangoren
 
+## Past Presentations Content
+### UI5Con2024
+#### Migrating an existing freestyle UI5 project from JavaScript to TypeScript
+Presentation: 
+
 ## Skills
 
 - **SAP UI5**: Developing responsive and interactive web applications using SAP UI5 framework.
