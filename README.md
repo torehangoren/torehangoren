@@ -4,9 +4,9 @@
 
 I am an experienced full-stack SAP developer with over 8 years with a passion for building Apps with UI5, particularly Freestyle applications. I bring expertise to both the backend logic and the frontend user experience, ensuring seamless SAP solutions.
 
-- 🌐 Personal Website: [torehangoren.com](https://torehangoren.com)
-- 💼 LinkedIn: [LinkedIn](https://linkedin.com/in/toerehan-goeren/)
-- ✖️ X: [X](https://twitter.com/torehangoren)
+- 🌐 Visit my Personal Website: https://torehangoren.com
+- 💼  Follow me on LinkedIn: https://linkedin.com/in/toerehan-goeren/
+- ✖️  Follow me on X: https://twitter.com/torehangoren
 
 ## Skills
 
@@ -16,19 +16,15 @@ I am an experienced full-stack SAP developer with over 8 years with a passion fo
 - **OData Services**: Creating and consuming OData services for SAP applications.
 - **JavaScript/HTML/CSS**: Proficient in front-end technologies for building robust web applications.
 - **SAP Gateway**: Integrating and extending SAP systems using SAP Gateway.
+- **RAP Model**: Implementing the RESTful ABAP Programming Model for cloud-ready applications.
+- **CDS Views**: Creating Core Data Services views to define and consume data models within SAP.
+
 
 ## Projects
 
-### 1. [Project Name](https://github.com/yourusername/projectname)
-A brief description of the project, its purpose, and key technologies used.
+### 1. [Resume](https://github.com/yourusername/projectname)
+This is a UI5 WebComponent application built with TypeScript, serving as a resume CV.
 
-## Open Source Contributions
-
-### 1. [Repository Name](https://github.com/yourusername/repositoryname)
-A brief description of the contribution and its impact on the project.
-
-### 2. [Repository Name](https://github.com/yourusername/repositoryname)
-A brief description of the contribution and its impact on the project.
 
 ## Certifications
 
